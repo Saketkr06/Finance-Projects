@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saketkr06
+- 👋 Hi, I’m Saket
 - 👀 I’m interested in Cricket
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on randomstuffs
