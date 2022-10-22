@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cricket
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on randomstuffs
-- 📫 How to reach me connect me on instagram saketkr_06
+- 📫 Connect me linkedin saketkr06
 
 <!---
 Saketkr06/Saketkr06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
